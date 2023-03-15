@@ -1,0 +1,5 @@
+C:\Users\PRAKTIKAN\Documents\modul4_1302213069\modul4_1302213069\obj\Debug\net6.0\modul4_1302213069.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\modul4_1302213069\modul4_1302213069\obj\Debug\net6.0\modul4_1302213069.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Documents\modul4_1302213069\modul4_1302213069\obj\Debug\net6.0\modul4_1302213069.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Documents\modul4_1302213069\modul4_1302213069\obj\Debug\net6.0\modul4_1302213069.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Documents\modul4_1302213069\modul4_1302213069\obj\Debug\net6.0\modul4_1302213069.csproj.CoreCompileInputs.cache
